@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **NEXT.js & Backend development**
 
-- 👨‍💻 All of my projects are available at [https://sam4web.vercel.app](https://sam4web.vercel.app)
+- 👨‍💻 All of my projects are available at [https://www.sijalmanandhar.com.np](https://www.sijalmanandhar.com.np/)
 
 - 💬 Ask me about **react, css, python**
 
